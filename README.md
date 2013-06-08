@@ -1,0 +1,1 @@
+A simple mod for Minecraft that allows OP's on servers to edit the inventories of online & offline players through a command or GUI driven fashion.

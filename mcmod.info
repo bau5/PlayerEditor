@@ -1,0 +1,20 @@
+[
+{
+  "modid": "bau5_PlayerEditor",
+  "name": "Player Editor",
+  "description": "A mostly server side mod allowing OP's to edit player's inventories.",
+  "version": "0.1",
+  "mcversion": "1.5.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "bau5"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [ ],
+  "parent":"",
+  "dependencies": [ "MinecraftForge"
+  ]
+}
+]
